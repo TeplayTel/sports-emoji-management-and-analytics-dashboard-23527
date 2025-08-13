@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/sports-emoji-management-and-analytics-dashboard-23527/admin_backend_api"
+}
